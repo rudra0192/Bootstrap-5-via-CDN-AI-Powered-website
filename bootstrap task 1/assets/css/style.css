@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3{
+  font-weight: bold;
+}
+
+.image{
+    background-image: url("images/ai.jpg");
+    color: white;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
